@@ -11,5 +11,7 @@ dependencies:
   - six
   - sqlalchemy
   - nose
+  - pandas
+  - numpy
   - pip:
     - git+git://github.com/pl31/pgcontents.git

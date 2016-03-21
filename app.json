@@ -1,7 +1,7 @@
 {
   "name": "jupyter",
   "buildpacks": [
-    { "url": "https://github.com/adamfeldman/heroku-buildpack-conda" }
+    { "url": "https://github.com/adamfeldman/heroku-buildpack-conda.git" }
   ],
   "addons": [
     "heroku-postgresql:hobby-dev"
